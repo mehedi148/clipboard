@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.hero{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    background-image: url(../clipboard-landing-page-master/images/bg-header-desktop.png);
+    text-align: center;
+}
+.logo-text p{
+    color: gray;
+}
+.btn1{ 
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #FF99CC;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.btn1:hover{
+    background-color: #5DCDBB;
+    color: white;
+}
+.btn2{
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #FFCC99;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.btn2:hover{
+    background-color:#8896FF ;
+    color: white;
+}
+.wrapper{
+    text-align: center;
+    margin: 100px 0px;
+}
+.wrapper p{
+    color: gray;
+}
+.container{
+    display: flex;
+}
+.computer img{
+    width: 700px;
+    height: 100%;
+}
+.first-element{
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 100px;
+    text-align: center;
+}
+.first-element h2{
+    margin-top: 50px;
+}
+.first-element p{
+    width: 400px;
+    color: gray;
+}
+.wrapper2{
+    text-align: center;
+    margin: 100px 0px;
+}
+.wrapper2 p{
+    color: gray;
+}
+.devices{
+text-align: center;
+}
+.devices img{
+ width:800px;
+ height: 100%;
+}
+.wrapper3{
+   text-align: center;
+   margin: 50px 0px;
+}
+.wrapper3 p{
+    color: gray;
+}
+.container2{
+    list-style: none;
+    display: flex;
+}
+.container2 p{
+   color: gray;
+}
+.first-list{
+    padding: 0px 110px;
+    text-align: center;
+}
+
+.second-list{
+    padding: 0px 110px 0px 0px;
+    text-align: center; 
+}
+.third-list{
+    text-align: center;
+}
+.company-logo{
+margin: 100px 0px;
+}
+.google{
+    margin-left:200px ;
+}
+.ibm{
+    margin-left: 50px;
+}
+.microsoft{
+    margin-left:50px;
+}
+.hp{
+    margin-left: 50px;
+}
+.vcg{
+    margin-left: 50px;
+}
+.header2{
+    text-align: center;
+}
+.header2 p{
+    color: gray;
+}
+.footer{
+    display: flex;
+    list-style: none;
+    margin-top: 50px;
+    background-color:#F5F6F8;
+}
+.footer-logo img{
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.list-item1{
+    margin-left: 80px;
+}
+.list-item2{
+    margin-left: 80px;
+}
+.list-item3{
+    margin-left: 80px;
+}
+.list-item4{
+   margin-left: 200px;
+}
+.facebook{
+    padding: 20px;
+}
+.twitter{
+    padding: 20px;  
+}
+.twitter:hover{
+ color: lightegreen;
+}
+.instagram{
+    padding: 20px;
+}
